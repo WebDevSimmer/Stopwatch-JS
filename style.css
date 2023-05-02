@@ -1,4 +1,8 @@
 @import url(//db.onlinewebfonts.com/c/001f92d59a64338e706b15a97a1f615f?family=StopwatchW00-Regular);
+@font-face {
+  font-family: 'StopwatchW00-Regular';
+  src: url(Stopwatch\ W00\ Regular.svg);
+}
 
 body{
     font-family: 'StopwatchW00-Regular';
