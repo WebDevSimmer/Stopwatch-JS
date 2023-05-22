@@ -1,11 +1,7 @@
 @import url(//db.onlinewebfonts.com/c/001f92d59a64338e706b15a97a1f615f?family=StopwatchW00-Regular);
-@font-face {
-  font-family: 'StopwatchW00-Regular';
-  src: url(Stopwatch\ W00\ Regular.svg);
-}
 
 body{
-    font-family: 'StopwatchW00-Regular';
+    font-family:'StopwatchW00-Regular',cursive;
     width: 100vw;
     height: 100vh;
     margin: 0;
@@ -14,6 +10,7 @@ body{
     place-content: center; 
     background-color: rgba(0, 0, 0, 0.833);          
 }
+
 button{
     background-color: rgb(220, 20, 80);
     color: white;
